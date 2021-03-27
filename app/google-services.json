@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "404950253354",
+    "firebase_url": "https://chatapp-4237d-default-rtdb.firebaseio.com",
+    "project_id": "chatapp-4237d",
+    "storage_bucket": "chatapp-4237d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404950253354:android:acc5c0e608e69c06eb2853",
+        "android_client_info": {
+          "package_name": "com.example.chatbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "404950253354-grsoga2us8110ft82bkjocqo8q7qf0cb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbW7SAk0ctnlxFBVzv0cLCWo32WaNXfjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "404950253354-grsoga2us8110ft82bkjocqo8q7qf0cb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
